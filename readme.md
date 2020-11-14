@@ -1,1 +1,2 @@
-My second HTML code. URL: https://qramazanq.github.io/Site-2/
+My second HTML code. URL: https://0ramazan0.github.io/Site-2/
+
